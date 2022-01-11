@@ -1,4 +1,5 @@
 //https://www.acmicpc.net/problem/10818
+//Practice to use the method "split" on String data type
 
 import java.util.Scanner;
 
